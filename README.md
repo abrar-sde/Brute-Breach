@@ -1,4 +1,4 @@
-# Brute-force Application
+# Brute-Breach Application
 
 ## Bruteforce Attack
 In this case, I, the attacker, try to access the administrator panel of the website using a list of common usernames and passwords. To carry out the attack, Burp Intruder is used to find firstly the admin username and after finding the username finding the respective admin password to view the dashboard for the website.
